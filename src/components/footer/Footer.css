@@ -1,0 +1,15 @@
+.footer {
+    color: #f8f2f2;
+    text-align: center;
+    position: -ms-page;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+  }
+  
+  .footer-text {
+    margin: 0;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+  }
